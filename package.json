@@ -1,7 +1,8 @@
 {
   "name": "my-project",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://mohmmadx1.github.io/HaizenStoreFrontEnd",
   "dependencies": {
     "@okta/okta-auth-js": "6.0",
     "@okta/okta-react": "6.4",
